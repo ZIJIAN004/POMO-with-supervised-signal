@@ -3,7 +3,7 @@
 ## Description
 This repository is a modified version of the original **POMO** framework. The primary goal of this project is to integrate **supervisory signals** into the training process, thereby enhancing both the efficiency and the stability of the model training.
 
-The core codebase is built upon the repository: [[在此处粘贴原作者的仓库链接]](https://github.com/yd-kwon/POMO).
+The core codebase is built upon the repository: (https://github.com/yd-kwon/POMO).
 
 ## Key Modifications
 
